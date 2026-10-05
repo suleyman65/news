@@ -7,6 +7,7 @@ body{
 .logo{
     width: 1%;
     display:inline-block;
+    font-size: x-large;
 }
 
 
@@ -16,6 +17,8 @@ nav{
     width: 58%;
     text-transform: uppercase;
     margin-left: 200px;
+    
+    
    
     
 }
@@ -24,6 +27,7 @@ nav a{
     color: #1a1717;
     padding: 10px 20px;
     display: inline-block;
+    
 }
 .main-img{
     display:inline-block;

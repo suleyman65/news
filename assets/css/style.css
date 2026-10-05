@@ -1,0 +1,94 @@
+
+body{
+    padding: 60px 200px 0px 400px;
+
+}
+
+.logo{
+    width: 1%;
+    display:inline-block;
+}
+
+
+nav{
+    text-align: right;
+    display:inline-block;
+    width: 58%;
+    text-transform: uppercase;
+    margin-left: 200px;
+   
+    
+}
+nav a{
+    text-decoration: none;
+    color: #1a1717;
+    padding: 10px 20px;
+    display: inline-block;
+}
+.main-img{
+    display:inline-block;
+    
+    
+}
+.news{
+    float: right;
+    width: 250px;
+    background-color: #f2e9e4;
+    padding: 40px;
+}
+.left-content{
+    float: left;
+    width: 500px;
+}
+
+.news h2{
+    color:#4a4e69;
+    font-size: 30px;
+}
+
+   
+
+.hero{
+    width: 500px;
+   
+
+}
+.hero > .exam{
+    
+    width: 180px;
+    float: left;
+    font-size: 20px ;
+    word-spacing: 5px;
+
+}
+.stick {
+    
+    width: 320px;
+    display: inline-block;
+    font-size: large;
+    
+}
+
+
+.text{
+
+    margin-top: 300px;
+}
+.button{
+    background-color: aquamarine;
+    display: inline-block;
+    padding: 8px 30px;
+    font-size: x-large;
+    margin-left: 8px;
+    
+
+}
+.button a{
+    text-decoration: none;
+    
+}
+.container{
+    width: 870px;
+    height: 500px;
+   
+}

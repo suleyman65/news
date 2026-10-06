@@ -7,6 +7,7 @@ body{
 }
 
 
+
 .logo{
     width: 1%;
     display:inline-block;
@@ -38,12 +39,14 @@ nav a{
     display:inline-block;
     
     
+    
 }
 .news{
     float: right;
     width: 250px;
     background-color: #f2e9e4;
-    padding: 40px;
+    padding: 40px 20px 90px 40px;
+    
 }
 .left-content{
     float: left;
@@ -59,6 +62,10 @@ nav a{
 
 .hero{
     width: 500px;
+    background-color: #f2e9e4;
+    padding: 0px 75px;
+    padding-bottom: 20px;
+    margin: 10px 0px;
    
 
 }
@@ -81,16 +88,18 @@ nav a{
 
 }
 .button{
-    background-color: aquamarine;
+    background-color: #263B50;
     display: inline-block;
     padding: 8px 30px;
     font-size: x-large;
     margin-left: 8px;
     
+    
 
 }
 .button a{
     text-decoration: none;
+    color: #F7F3EE;
     
 }
 .container{
@@ -104,21 +113,27 @@ nav a{
 .text{
     width: 1000px;
     height: 150px;
+    clear: both;
 }
 
 .card{
     float: left;
     width: 300px;
-    margin-right: 30px;
+    
     margin-top: 50px;
+    background-color: #f2e9e4;
+    
+    box-sizing: border-box;
+    padding: 10px 20px;
    
 }
 
 .card img{
     float: left;
     width: 100px;
-    height: 120px;
+    height: 140px;
     margin-right: 15px;
+    
 }
 
 .info h2{
@@ -134,9 +149,19 @@ nav a{
     font-size: 14px;
 }
 #kutucuk1{
-    margin-left: -500px;
+    
+    margin-left: 0;
+    margin-right: 50px;
 }
 
 #kutucuk2{
-    margin-left: -170px;
+    
+    margin-left: 0;
+    margin-right: 50px; }
+
+#card3{
+    
+   
+    margin-left: 0px;
+    
 }
